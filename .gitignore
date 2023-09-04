@@ -2,3 +2,5 @@
 .github
 API/RestWithASPNET/.vs/
 API/RestWithASPNET/.vs/*
+API/RestWithASPNET/RestWithASPNET/bin
+API/RestWithASPNET/RestWithASPNET/obj
